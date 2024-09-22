@@ -26,6 +26,7 @@ To run this project, you'll need the following libraries:
 
 ## Dataset
 
+Link to data source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 The dataset contains sales data from a supermarket. Each row represents a transaction, and each column contains attributes related to the transaction, such as:
 
 - Invoice ID: The unique identifier for each transaction.
